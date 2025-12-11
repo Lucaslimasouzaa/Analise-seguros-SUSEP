@@ -4,6 +4,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458)
 ![Plotly](https://img.shields.io/badge/Plotly-Interactive%20Maps-3F4F75)
+![Status](https://img.shields.io/badge/Status-Em_andamento-yellow)
 
 > Este projeto realiza a ingestão, limpeza, enriquecimento e visualização de uma base de dados massiva de seguros de automóveis (referência SUSEP-2021), focando na distribuição demográfica e geográfica dos segurados no Brasil.
 
