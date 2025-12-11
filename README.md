@@ -55,24 +55,23 @@ Devido ao alto volume de dados, APIs de geolocalização (como `geopy` ou `brazi
     * **Choropleth:** Mapa do Brasil colorindo estados por volume de seguros.
     * **Heatmap:** Mapa de densidade utilizando coordenadas (Latitude/Longitude) de uma amostra dos dados.
 
+---
+
+## 📊 Resultados
+
+### Distribuição Geográfica (Ranking)
+O projeto identificou a concentração de seguros, validando a distribuição estatística (análise da Lei de Zipf nos dados estaduais).
+
+### Mapa Gerado
+O notebook exporta o seguinte mapa interativo em HTML:
+* `mapa_seguros_por_uf.html`: Visão de densidade por coordenadas.
+
+---
 <img width="590" height="390" alt="distribuicao_sexo" src="https://github.com/user-attachments/assets/5921364b-6037-41b6-8589-ccd23ad36462" />
 <img width="590" height="390" alt="distribuicao_PF_PJ" src="https://github.com/user-attachments/assets/21c4b370-7fcb-403c-8153-5bc51ad07868" />
 <img width="989" height="590" alt="Histograma_idade" src="https://github.com/user-attachments/assets/4a89b59a-2d24-4ed5-ac7f-cea1398e4938" />
 <img width="2963" height="2368" alt="ranking_seguros_por_estado" src="https://github.com/user-attachments/assets/f535085e-f522-4213-a639-9d48ebe33ed0" />
 <img width="2960" height="1754" alt="grafico_lei_de_zipf_estados" src="https://github.com/user-attachments/assets/ad4fac50-6785-4c9e-89e1-ffbc3ce4c637" />
-
----
-
-## 📊 Exemplos de Resultados
-
-### Distribuição Geográfica (Ranking)
-O projeto identificou a concentração de seguros, validando a distribuição estatística (análise da Lei de Zipf nos dados estaduais).
-
-*(Aqui você pode inserir uma imagem do gráfico de barras horizontais 'Ranking de Seguros por Estado' se tiver salvo)*
-
-### Mapa Gerado
-O notebook exporta o seguinte mapa interativo em HTML:
-* `mapa_seguros_por_uf.html`: Visão de densidade por coordenadas.
 
 ---
 
